@@ -1,0 +1,3 @@
+Football Analysis Project
+
+This project detects and tracks players, referees, and the football in video footage using YOLO. We enhance the model through training and use K-means clustering to group players into teams based on jersey colors. With this, we can measure team ball possession. Optical flow helps estimate camera motion, while perspective transformation allows movement to be measured in meters instead of pixels. Finally, we calculate player speed and distance covered. This project combines multiple computer vision techniques to solve real-world problems, making it valuable for both beginners and experienced ML engine
